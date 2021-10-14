@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/137402483-d5138c10-6f78-4686-a73f-1973d06ed4ca.png">
   <br />
   Apache Ignite Guide
 </h1>
@@ -8,10 +8,10 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137402493-c1e32e3c-d2f6-49d9-8ab9-3a609cbc08e7.png">
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/137402504-6380fbf0-54de-448c-97bd-6b6a2040f311.png">
  <br />
 </p>
 
